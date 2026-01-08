@@ -1,0 +1,131 @@
+text,label
+Bilinç kaybı yaşadım,Emergency
+Gözüme kimyasal sıçradı,Emergency
+"Kesik var, çok kanıyor",Emergency
+Tiroid kontrolü,NonEmergency
+"Yanık, 2. derece yanık var",Emergency
+Uykusuzluk problemi yaşıyorum,NonEmergency
+Hafif mide bulantısı,NonEmergency
+Baş ağrısı için ilaç istiyorum,NonEmergency
+"Kalp krizi geçiriyor olabilirim, göğsümde şiddetli ağrı var",Emergency
+Saç dökülmesi şikayeti,NonEmergency
+KBB muayenesi olmak istiyorum,NonEmergency
+"Şiddetli kusma ve ishal, su kaybı var",Emergency
+"Yüksekten düştüm, sırt ağrısı var",Emergency
+Göğüs ağrısı sol kola yayılıyor,Emergency
+Kolesterol kontrolü,NonEmergency
+Sigara bırakma tedavisi,NonEmergency
+Düştüm ve kolum hareket etmiyor,Emergency
+"Boğaz ağrısı, yutkunma zorluğu",NonEmergency
+"Bacağımı kırdım, çok şiddetli ağrı var",Emergency
+Diyabet takibi için geldim,NonEmergency
+"Kemik kırığı, şişme ve morarma var",Emergency
+Bayılacak gibi hissediyorum,Emergency
+"Şeker hastasıyım, şekerim çok düştü",Emergency
+Tırnak mantarı tedavisi,NonEmergency
+"Araba kazası geçirdim, boyun ağrısı var",Emergency
+Yüksek ateş ve bilinç bulanıklığı var,Emergency
+"Hafif alerji, hapşırık",NonEmergency
+Beslenme danışmanlığı,NonEmergency
+Gebelikte şiddetli kanama,Emergency
+Tansiyon kontrole geldim,NonEmergency
+"Kırık cam battı, kanama var",Emergency
+Yüksek tansiyon krizi,Emergency
+"Şiddetli migren, ışık hassasiyeti",Emergency
+Genel muayene olmak istiyorum,NonEmergency
+Şiddetli baş ağrısı ve bulanık görme,Emergency
+"Böcek sokması, nefes almada zorluk",Emergency
+Stres yönetimi danışmanlığı,NonEmergency
+Göğsüme bıçak saplanmış gibi ağrı var,Emergency
+"Böbrek taşı ağrısı, dayanamıyorum",Emergency
+Şiddetli karın ağrısı ve kanama var,Emergency
+Uyku apnesi şüphesi,NonEmergency
+Göğüs kafesimde çıtırtı hissi,Emergency
+"Grip oldum, ateşim var",NonEmergency
+Menopoz şikayetleri,NonEmergency
+Rutin check-up yaptırmak istiyorum,NonEmergency
+Hafif sırt ağrısı var,NonEmergency
+Hafif kabızlık,NonEmergency
+Reçetemi yenilemek istiyorum,NonEmergency
+"Apandisit olabilir, sağ alt karın ağrısı",Emergency
+Fizik tedavi için geldim,NonEmergency
+Stres ve yorgunluk hissediyorum,NonEmergency
+Eklem ağrıları için geldim,NonEmergency
+"Kafa travması geçirdim, baygınlık hissi var",Emergency
+"Duman soludum, öksürük var",Emergency
+Hafif egzama şikayeti,NonEmergency
+Aşı olmak istiyorum,NonEmergency
+Zehirli bir şey yedim,Emergency
+Kesik atardamarı kesmiş olabilir,Emergency
+Nöbet geçirdim,Emergency
+"Alerjik reaksiyon, nefes alamıyorum",Emergency
+Alerji testi yaptırmak istiyorum,NonEmergency
+Çocuğum havale geçiriyor,Emergency
+Hafif baş dönmesi,NonEmergency
+Kulak tıkanıklığı,NonEmergency
+Hafif öksürük şikayetim var,NonEmergency
+Yorgunluk ve halsizlik,NonEmergency
+Psikolojik destek almak istiyorum,NonEmergency
+Göğüs ağrım var ve nefes alamıyorum,Emergency
+Check-up yaptırmak istiyorum,NonEmergency
+"Yanık, 3. derece yanık",Emergency
+Kilo verme danışmanlığı,NonEmergency
+Demir eksikliği şüphesi,NonEmergency
+Şiddetli baş dönmesi ve kusma,Emergency
+Alerjik rinit şikayetlerim var,NonEmergency
+"Şiddetli alerji, yüzüm şişiyor",Emergency
+"Gözümü bir şey kaçtı, göremiyorum",Emergency
+Hafif kas ağrısı,NonEmergency
+Göz muayenesi olmak istiyorum,NonEmergency
+"Şiddetli kanama, durduramıyorum",Emergency
+Sırtıma bıçak saplandı,Emergency
+"Felç belirtileri, yüzüm kayıyor",Emergency
+Cilt lekeleri için geldim,NonEmergency
+"Yutkunamıyorum, boğazım tıkanıyor",Emergency
+Göğsümde sıkışma hissi ve terleme,Emergency
+Elektrik çarptı,Emergency
+"Nefes darlığı çekiyorum, boğuluyor gibi hissediyorum",Emergency
+Hafif hazımsızlık,NonEmergency
+"Diş ağrısı, hafif şişlik",NonEmergency
+Göğsümde yanma hissi ve öksürük,Emergency
+"Yanık, deri kabarmış",Emergency
+Ciltte kaşıntı ve döküntü,NonEmergency
+Hafif bel ağrısı,NonEmergency
+Burun tıkanıklığı,NonEmergency
+Hafif eklem şişliği,NonEmergency
+"Kalp ritim bozukluğu, çarpıntı",Emergency
+Vitamin eksikliği olabilir,NonEmergency
+Yanımdaki kişi bayıldı,Emergency
+"İnme belirtileri var, konuşamıyorum",Emergency
+"Soğuk algınlığı, burun akıntısı",NonEmergency
+Kontraseptif reçetesi istiyorum,NonEmergency
+Ayak parmaklarımda mantar var çok kaşıntı yapıyor,NonEmergency
+Sivrisinek ısırdı kolumda hafif kaşıntı ve kızarıklık var,NonEmergency
+Yünlü kazak giyince vücudumda kaşıntı oldu,NonEmergency
+Kuru ciltten dolayı bacaklarımda pullanma ve kaşıntı var,NonEmergency
+Saç dibimde kepeklenme ve kaşıntı şikayetim var,NonEmergency
+Elimdeki egzama yine nüksetti kaşıntı yapıyor,NonEmergency
+Böcek ısırığı sandım ama sadece kaşıntı var şişme yok,NonEmergency
+Sıcaktan isilik oldum sırtımda kaşıntı var,NonEmergency
+Duş sonrası cildimde hafif kaşıntı oluyor,NonEmergency
+Ayakkabı vurduğu için topuğumda kaşıntı ve sızı var,NonEmergency
+Hafif baş ağrısı için ağrı kesici yazdırmak istiyorum,NonEmergency
+Diş etimdeki kanama durdu ama kontrol ettirmek istiyorum,NonEmergency
+İlaçlarımı düzenli kullanıyorum sadece rapor yenileyeceğim,NonEmergency
+Ameliyat yerimdeki dikişleri aldırmaya geldim ağrım yok,NonEmergency
+Bacağımda eski bir yara izi var estetik olarak rahatsız ediyor,NonEmergency
+Geçen ayki kan tahlili sonuçlarımı göstermeye geldim,NonEmergency
+"Burnum tıkalı ama nefes alabiliyorum, grip ilacı lazım",NonEmergency
+Çocuğun ateşi düştü ama öksürüğü hafif devam ediyor,NonEmergency
+Kronik bel ağrım için fizik tedavi randevusu almaya geldim,NonEmergency
+Gözümde hafif kaşıntı var damla yazdırmak istiyorum,NonEmergency
+"Tansiyon ilacım bitti, reçete yazdırmam gerekiyor",NonEmergency
+"Dün gece midem yandı ama şu an iyiyim, ne yemeliyim?",NonEmergency
+"Spor yaparken kasım çekildi, şu an üzerine basabiliyorum",NonEmergency
+"Rutin şeker ölçümü yaptırmak istiyorum, şikayetim yok",NonEmergency
+Aşı takvimini sormak için gelmiştim,NonEmergency
+Kulağımı temizletmek istiyorum duyma kaybım yok,NonEmergency
+Sivilcelerim için cildiye polikliniğine görünmek istiyorum,NonEmergency
+Diyetisyen ile görüşüp kilo vermek istiyorum,NonEmergency
+Check-up yaptırmak istiyorum genel durumum iyi,NonEmergency
+Vitamin eksikliği var mı diye baktırmak istiyorum,NonEmergency
